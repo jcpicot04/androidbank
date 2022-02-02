@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_movements"
+        android:title="@string/earnings"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_home"
+        android:title="@string/home"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_changepwd"
+        android:title="@string/change_pass"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_ordertransfers"
+        android:title="@string/show_transfers"
+        android:icon= "@drawable/icontraspaso"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_global"
+        android:title="@string/atm"
+        android:icon="@drawable/iconbank"
+        app:showAsAction="ifRoom|withText" />
+</menu>

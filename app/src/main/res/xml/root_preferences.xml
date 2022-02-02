@@ -1,0 +1,36 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreferenceCompat
+        app:key="reproducirVideo"
+        app:summaryOff="@string/nowelcome_video"
+        app:summaryOn="@string/welcome_video"
+        app:title="Vídeo" />
+    <SwitchPreferenceCompat
+        app:key="reproducirMusica"
+        app:summaryOff="@string/nomusic"
+        app:summaryOn="@string/music"
+        app:title="Música" />
+    <SeekBarPreference
+        app:key="volumenNotificaciones"
+        app:title="Volumen"
+        app:showSeekBarValue="true"
+        app:defaultValue="50" />
+    <PreferenceCategory
+        app:title="@string/preferences"
+        app:icon="@android:drawable/ic_menu_preferences">
+    <ListPreference
+        app:key="lenguage"
+        app:title="@string/default_lenguage"
+        app:useSimpleSummaryProvider="true"
+        app:dialogTitle="@string/indicate_lenguage"
+        app:entries="@array/lenguage"
+        app:entryValues="@array/codelenguage" />
+        <ListPreference
+            app:key="origen_datos"
+            app:title="@string/data_origin"
+            app:useSimpleSummaryProvider="true"
+            app:dialogTitle="@string/indicate_origin"
+            app:entries="@array/origen_datos"
+            app:entryValues="@array/codeorigen_datos" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

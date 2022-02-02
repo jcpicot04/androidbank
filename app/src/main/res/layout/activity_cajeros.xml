@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/jkbankstyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cajeros">
+
+    <View
+        android:id="@+id/divider4"
+        android:layout_width="409dp"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.173" />
+
+    <TextView
+        android:id="@+id/promos"
+        android:layout_width="72dp"
+        android:layout_height="40dp"
+        android:text="@string/atm_list"
+        android:textColor="#D1CECE"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toTopOf="@+id/divider4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.608" />
+
+    <Button
+        android:id="@+id/buttonlist"
+        android:layout_width="177dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="76dp"
+        android:text="@string/atm_buttonlist"
+        android:textColor="#EFEBEB"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/divider4" />
+
+    <Button
+        android:id="@+id/buttonadd"
+        android:layout_width="177dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="48dp"
+        android:text="@string/atm_buttonadd"
+        android:textColor="#F8F5F5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonlist" />
+
+    <Button
+        android:id="@+id/buttonsave3"
+        android:layout_width="177dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="60dp"
+        android:text="@string/atm_buttonmap"
+        android:textColor="#FAF6F6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonadd" />
+</androidx.constraintlayout.widget.ConstraintLayout>

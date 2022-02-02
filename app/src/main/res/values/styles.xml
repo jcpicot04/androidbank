@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="jkbankstyle">
+        <item name="android:background">#58146A</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

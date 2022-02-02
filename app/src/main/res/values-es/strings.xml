@@ -1,0 +1,96 @@
+<resources>
+    <string name="login">Entrar</string>
+    <string name="open">ABRIR</string>
+    <string name="jkbank">JK BANK</string>
+    <string name="username">DNI</string>
+    <string name="pass">Contraseña</string>
+    <string name="exit_button">Atrás</string>
+    <string name="welcome_text">Tu banco online y en oficina.</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="new_pass">Nueva contraseña</string>
+    <string name="repeat_pass">Repetir contraseña</string>
+    <string name="login_failed">"Login fallido"</string>
+    <string name="global">Global</string>
+    <string name="earnings">Movimientos</string>
+    <string name="show_transfers">Mostrar transferencias</string>
+    <string name="order_transfers">Ordenar transferencias</string>
+    <string name="change_pass">Cambiar contraseña</string>
+    <string name="promo">Promociones</string>
+    <string name="atm">Cajeros cercanos</string>
+    <string name="go">IR</string>
+    <string name="home">INICIO</string>
+    <string name="title_activity_login">activity_login</string>
+    <string name="trans">TRANSFERENCIAS</string>
+    <string name="select_account">Selecciona tu cuenta:</string>
+    <string name="your_account">Cuenta propia</string>
+    <string name="other_account">Cuenta ajena</string>
+    <string name="send">ENVIAR</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="receipt">JUSTIFICANTE</string>
+    <string name="quantity">Cantidad:</string>
+    <string name="numotheraccount">Escribe el núm. de cuenta ajena</string>
+    <string name="current_pass">Contraseña actual</string>
+    <string name="changed_pass">PASSWORD</string>
+    <string name="app_name">Tema6App1</string>
+    <string name="action_settings">Settings</string>
+    <string name="preferences">Preferencias</string>
+    <string name="default_lenguage">Idioma por defecto</string>
+    <string name="indicate_lenguage">Indicar idioma preferido</string>
+    <string name="indicate_origin">Indicar origen preferido</string>
+    <string name="data_origin">Origen de los datos</string>
+    <string name="nowelcome_video">No reproducir vídeo de bienvenida</string>
+    <string name="welcome_video">Reproducir vídeo de bienvenida</string>
+    <string name="nomusic">No escuchar la música mientras se ejecuta la aplicación</string>
+    <string name="music">Escuchar la música mientras se ejecuta la aplicación</string>
+    <string name="atm_list">ATM</string>
+    <string name="atm_buttonlist">ATM LISTADO</string>
+    <string name="atm_buttonadd">ATM AÑADIR</string>
+    <string name="atm_buttonmap">ATM MAPA</string>
+    <string name="atm_buttonsave">Guardar</string>
+    <string name="atm_buttoncancel">Cancelar</string>
+    <string name="atm_address">Dirección</string>
+    <string name="atm_lat">Latitud</string>
+    <string name="atm_lng">Longitud</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="menu_crear">Editar</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="atm_created">ATM creado</string>
+    <string name="atm_update">Actualizar</string>
+    <string name="atm_delete">Eliminar</string>
+    <string name="atm_updated">ATM actualizado</string>
+    <string name="atm_eliminar_titulo">Eliminar cajero</string>
+    <string name="atm_eliminar_msg">¿Seguro que desea eliminar el cajero?</string>
+    <string name="atm_eliminar_confirmacion">Cajero eliminado</string>
+    <string name="menu_crear2">Editar</string>
+    <string name="menu_eliminar2">Eliminar</string>
+    <string name="promo_created">Promo creada</string>
+    <string name="promo_update">Actualizar</string>
+    <string name="promo_delete">Eliminar</string>
+    <string name="promo_updated">Promo actualizar</string>
+    <string name="promo_eliminar_titulo">Eliminar Promo</string>
+    <string name="promo_eliminar_msg">¿Seguro que desea eliminar la promoción?</string>
+    <string name="promo_eliminar_confirmacion">Promo eliminada</string>
+    <string name="promo_list">PROMOS</string>
+    <string name="promo_buttonlist">Promo listar</string>
+    <string name="promo_buttonadd">Promo añadir</string>
+    <string name="promo_buttonsave">Guardar</string>
+    <string name="promo_name">Nombre</string>
+    <string name="promo_description">Descripción</string>
+    <string name="promo_buttoncancel">Cancelar</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

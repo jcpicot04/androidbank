@@ -1,0 +1,95 @@
+<resources>
+    <string name="login">Log in</string>
+    <string name="open">OPEN</string>
+    <string name="jkbank">JK BANK</string>
+    <string name="username">NIF</string>
+    <string name="pass">Password</string>
+    <string name="exit_button">Back</string>
+    <string name="welcome_text">Your online and office bank.</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="new_pass">New password</string>
+    <string name="repeat_pass">Repeat password</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="global">Global</string>
+    <string name="earnings">Movements</string>
+    <string name="show_transfers">Show transfers</string>
+    <string name="order_transfers">Order transfers</string>
+    <string name="change_pass">Change password</string>
+    <string name="promo">Promotions</string>
+    <string name="atm">Nearby ATMs</string>
+    <string name="go">GO</string>
+    <string name="home">Home</string>
+    <string name="title_activity_login">activity_login</string>
+    <string name="trans">TRANSFERS</string>
+    <string name="select_account">Select your account:</string>
+    <string name="your_account">My account</string>
+    <string name="other_account">Other account</string>
+    <string name="send">SEND</string>
+    <string name="cancel">CANCEL</string>
+    <string name="receipt">RECEIPT</string>
+    <string name="quantity">Quantity:</string>
+    <string name="numotheraccount">Write the num. of the other account</string>
+    <string name="current_pass">Current password</string>
+    <string name="changed_pass">CONTRASEÑA</string>
+    <string name="app_name">Tema6App1</string>
+    <string name="action_settings">Settings</string>
+    <string name="preferences">Preferences</string>
+    <string name="default_lenguage">Default language</string>
+    <string name="indicate_lenguage">Indicate preferred language</string>
+    <string name="indicate_origin">Indicate preferred origin</string>
+    <string name="data_origin">Origin of the data</string>
+    <string name="nowelcome_video">Dont play welcome video</string>
+    <string name="welcome_video">Play welcome video</string>
+    <string name="nomusic">Dont listen the music while the application is running</string>
+    <string name="music">Listen the music while the application is running</string>
+    <string name="atm_list">ATM</string>
+    <string name="atm_buttonlist">ATM LIST</string>
+    <string name="atm_buttonadd">ATM ADD</string>
+    <string name="atm_buttonmap">ATM MAP</string>
+    <string name="atm_buttonsave">Save</string>
+    <string name="atm_address">Address</string>
+    <string name="atm_lat">Latitude</string>
+    <string name="atm_lng">Length</string>
+    <string name="atm_buttoncancel">Cancel</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="menu_crear">Edit</string>
+    <string name="menu_eliminar">Delete</string>
+    <string name="atm_created">ATM created</string>
+    <string name="atm_update">Update</string>
+    <string name="atm_delete">Delete</string>
+    <string name="atm_updated">ATM updated</string>
+    <string name="atm_eliminar_titulo">Delete ATM</string>
+    <string name="atm_eliminar_msg">¿Are you sure you want to delete the ATM?</string>
+    <string name="atm_eliminar_confirmacion">ATM deleted</string>
+    <string name="menu_crear2">Edit</string>
+    <string name="menu_eliminar2">Delete</string>
+    <string name="promo_created">Promo created</string>
+    <string name="promo_update">Update</string>
+    <string name="promo_delete">Delete</string>
+    <string name="promo_updated">Promo updated</string>
+    <string name="promo_eliminar_titulo">Delete Promo</string>
+    <string name="promo_eliminar_msg">¿Are you sure you want to delete the Promo?</string>
+    <string name="promo_eliminar_confirmacion">Promo deleted</string>
+    <string name="promo_list">PROMOS</string>
+    <string name="promo_buttonlist">Promo LIST</string>
+    <string name="promo_buttonadd">Promo ADD</string>
+    <string name="promo_buttonsave">Save</string>
+    <string name="promo_name">Name</string>
+    <string name="promo_description">Description</string>
+    <string name="promo_buttoncancel">Cancel</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

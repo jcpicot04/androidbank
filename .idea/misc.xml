@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProyectos/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout-land/activity_principal.xml" value="0.5276041666666667" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout-large-port/activity_contenedor_fragments.xml" value="0.5" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout-large-port/activity_main.xml" value="0.58125" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout-large/activity_contenedor_fragments.xml" value="0.67" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout-large/activity_main.xml" value="0.58125" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.39765625" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout-w936dp/activity_login.xml" value="0.7953125" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_anadir_cajero.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_cajeros.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_cajeros_list.xml" value="0.21927083333333333" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_changepass.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_contenedor_fragments.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_detail.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_detail_movements.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_gestion_cajeros.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_gestion_promociones.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_global.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_ingresos.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_list_element.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_movementsdetail.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_movementsfrag.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_movimiento.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_ordertrans.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_principal.xml" value="0.39947916666666666" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_promociones.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/activity_promociones_list.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/cajeros.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/element_list.xml" value="0.21927083333333333" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/element_list2.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/fragment_detail.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/fragment_list.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/fragment_list_element.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/list_element.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/login.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/root_preferences.xml" value="0.21927083333333333" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/layout/settings_activity.xml" value="0.21927083333333333" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/menu/menu_cajeros.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/menu/menu_main.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/menu/menu_navigation.xml" value="0.33" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/menu/menu_promociones.xml" value="0.3875" />
+        <entry key="..\:/t3a3picotjuancarlos/app/src/main/res/xml/root_preferences.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3875" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

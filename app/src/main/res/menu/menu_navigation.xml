@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/all"
+        android:icon="@drawable/ic_baseline_filter_24"
+        android:title="Todos" />
+    <item
+        android:id="@+id/zero"
+        android:icon="@drawable/ic_baseline_exposure_zero_24"
+        android:title="Tipo 0" />
+    <item
+        android:id="@+id/uno"
+        android:icon="@drawable/ic_baseline_filter_1_25"
+        android:title="Tipo 1" />
+    <item
+        android:id="@+id/dos"
+        android:icon="@drawable/ic_baseline_filter_2_25"
+        android:title="Tipo 2" />
+</menu>
